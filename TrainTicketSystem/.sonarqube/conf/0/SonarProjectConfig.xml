@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>D:\Технически университет\Семестър 8\VVPS\TrainTicketSystem\TrainTicketSystem\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>D:\Технически университет\Семестър 8\VVPS\TrainTicketSystem\TrainTicketSystem\TrainTicketSystem.csproj</ProjectPath>
+  <FilesToAnalyzePath>D:\Технически университет\Семестър 8\VVPS\TrainTicketSystem\TrainTicketSystem\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>D:\Технически университет\Семестър 8\VVPS\TrainTicketSystem\TrainTicketSystem\.sonarqube\out\0</OutPath>
+  <ProjectType>Test</ProjectType>
+  <TargetFramework>net7.0</TargetFramework>
+</SonarProjectConfig>

@@ -1,0 +1,12 @@
+﻿C:\Users\test\OneDrive\Desktop\TrainTicketSystem\TrainTicketSystemTests\TrainTicketSystemTests.cs
+C:\Users\test\OneDrive\Desktop\TrainTicketSystem\TrainTicketSystemTests\Usings.cs
+C:\Users\test\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\test\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\test\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\test\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\test\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\testcentric.engine.metadata.dll
